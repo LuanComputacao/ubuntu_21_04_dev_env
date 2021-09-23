@@ -7,7 +7,7 @@ sudo apt autoremove -y
 # - - - - - - -
 #DEFAULT
 # - - - - - - -
-sudo apt install -y wget curl tree apt-transport-https git
+sudo apt install -y wget curl tree apt-transport-https git cmake
 
 # MEDIA SOFTWARES
 ./_media_softwares.sh
