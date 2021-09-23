@@ -49,3 +49,9 @@ sudo apt install -y wget curl tree apt-transport-https git cmake
 
 # Mods
 ./_tweaks.sh
+
+
+# Docker
+
+./_docker.sh
+
