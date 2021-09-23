@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/luancomputacao/workspace/mad/projects/emails/tracfone/TF-19476-D01-EMAIL/TF-19476-D01-EMAIL'
+let g:netrw_dirhist_3='/home/luancomputacao/workspace/mad/projects/emails/straighttalk/ST-19119-9545-A03-EMAIL/ST-19119-9545-A03-EMAIL'
+let g:netrw_dirhist_2='/home/luancomputacao/workspace/mad/projects/emails/straighttalk/ST-19119-9545-A03-EMAIL'
+let g:netrw_dirhist_1='/home/luancomputacao/workspace/mad/projects/emails/straighttalk/ST-19119-9545-A03-EMAIL/ST-19119-9545-A03-EMAIL'
+let g:netrw_dirhist_0='/home/luancomputacao/workspace/mad/projects/www/net10.com/extras/_landing_pages'
+let g:netrw_dirhist_9='/home/luancomputacao/workspace/mad/projects/www/net10.com/extras'
+let g:netrw_dirhist_8='/home/luancomputacao/workspace/mad/projects/www/net10.com'
+let g:netrw_dirhist_7='/home/luancomputacao/workspace/onlyfans/OnlyFans/.profiles'
+let g:netrw_dirhist_6='/home/luancomputacao/workspace/onlyfans/OnlyFans'
+let g:netrw_dirhist_5='/home/luancomputacao/workspace/onlyfans/OnlyFans/.profiles'
