@@ -1,0 +1,5 @@
+alias pipi_u="pip install -r requirements.txt && pip install -U pip"
+alias svenv="source venv/bin/activate"
+alias pipf="pip freeze > requirements.txt"
+alias pwdclip="pwd | xclip -selection clipboard"
+alias selclip="xclip -selection clipboard"
