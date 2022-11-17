@@ -10,3 +10,7 @@ asdf plugin add python
 env PYTHON_CONFIGURE_OPTS="--enable-shared" asdf install python 3.9.7 2.7.18
 asdf global python 3.9.7
 pip install -U pip
+asdf reshim
+pip install psutil bpytop ipython black pre-commit
+asdf reshim
+

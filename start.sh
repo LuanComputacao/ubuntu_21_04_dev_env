@@ -7,7 +7,7 @@ sudo apt autoremove -y
 # - - - - - - -
 #DEFAULT
 # - - - - - - -
-sudo apt install -y wget curl tree apt-transport-https git cmake net-tools traceroute xclip
+sudo apt install -y wget curl tree apt-transport-https git cmake net-tools traceroute xclip openssh-server meld 
 
 # MEDIA SOFTWARES
 ./_media_softwares.sh
