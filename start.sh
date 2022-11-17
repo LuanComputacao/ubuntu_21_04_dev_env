@@ -7,7 +7,7 @@ sudo apt autoremove -y
 # - - - - - - -
 #DEFAULT
 # - - - - - - -
-sudo apt install -y wget curl tree apt-transport-https git cmake net-tools traceroute xclip openssh-server meld 
+sudo apt install -y wget curl tree apt-transport-https git cmake net-tools traceroute xclip openssh-server meld libfuse2
 
 # Fix to ç instead of ć
 sudo sed -i -e '$aGTK_IM_MODULE=cedilla' /etc/environment
