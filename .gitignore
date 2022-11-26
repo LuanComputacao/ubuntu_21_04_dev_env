@@ -1,2 +1,4 @@
 configs/.vim/bundle/*
 get-docker.sh
+
+.history
