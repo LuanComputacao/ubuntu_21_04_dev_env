@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Zsh
-sudo apt install zsh
+# sudo apt install zsh
 chsh -s $(which zsh)
 
 # Oh My Zsh

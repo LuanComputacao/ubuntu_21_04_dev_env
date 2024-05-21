@@ -39,8 +39,8 @@ sudo sed -i -e '$aGTK_IM_MODULE=cedilla' /etc/environment
 ./asdf_vm/_php.sh
 ./_node.sh
 ./_java.sh
-./_ruby.sh
-./_go.sh
+./asdf_vm/_ruby.sh
+./asdf_vm/_go.sh
 
 # Terminal tools 2
 ./_terminal_2.sh

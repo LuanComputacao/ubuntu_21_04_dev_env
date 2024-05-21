@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo apt install zsh
+
 # terminator
 sudo apt install -y terminator
 sudo apt install -y tmux
