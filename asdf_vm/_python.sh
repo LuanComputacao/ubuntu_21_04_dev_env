@@ -7,8 +7,10 @@ sudo apt-get install -y make build-essential libssl-dev zlib1g-dev \
 
 asdf plugin add python
 
-env PYTHON_CONFIGURE_OPTS="--enable-shared" asdf install python 3.9.7 2.7.18 3.11.9
-asdf global python 3.11.9
+env PYTHON_CONFIGURE_OPTS="--enable-shared" asdf install python 3.12.8
+cd ~
+asdf set python 3.12.8
+cd -
 pip install -U pip
 asdf reshim
 pip install psutil bpytop ipython black pre-commit

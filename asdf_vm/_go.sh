@@ -1,7 +1,13 @@
 #!/bin/bash
 
-asdf plugin add golang
+apt install coreutils
 
-asdf install golang 1.22.0
+asdf plugin add golang https://github.com/asdf-community/asdf-golang.git
 
-asdf global golang 1.22.0
+echo '. ${ASDF_DATA_DIR:-$HOME/.asdf}/plugins/golang/set-env.zsh' >> ~/.zshrc
+
+asdf install golang 1.24.6
+cd ~
+sdf set golang 1.24.6
+cd -
+
